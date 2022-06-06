@@ -2,7 +2,7 @@ import csv
 import json
 from ngram.ngram import generate_N_grams
 
-with open('data/dict2.json', 'r') as f:
+with open('data/dict.json', 'r') as f:
     merged_d = json.load(f)
 
 
@@ -26,4 +26,4 @@ def get_notes(text):
             continue
 
 
-print(get_notes('tourism commission'))
+print(len(get_notes('north carolina')))
