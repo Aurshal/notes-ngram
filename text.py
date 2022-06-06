@@ -2,10 +2,8 @@ import csv
 import json
 from ngram.ngram import generate_N_grams
 
-with open('data/dict.json', 'r') as f:
-    d = json.load(f)
-
-merged_d = {**d['unigram'], **d['bigram'], **d['trigram']}
+with open('data/dict2.json', 'r') as f:
+    merged_d = json.load(f)
 
 
 def get_notes(text):
@@ -18,7 +16,7 @@ def get_notes(text):
     notes = []
     for i in merged:
         try:
-            note = merged_d[i][1]
+            note = merged_d[i]
             if notes and note in notes:
                 continue
             else:
@@ -28,4 +26,4 @@ def get_notes(text):
             continue
 
 
-print(get_notes('public commission'))
+print(get_notes('tourism commission'))
