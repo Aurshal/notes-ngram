@@ -19,7 +19,7 @@ with open('raw/3_govt_urls_state_only.csv', 'r') as f:
                            key=lambda item: len(item[1]), reverse=True))
 
 
-with open('data/dict2.json', 'w') as f:
+with open('data/dict.json', 'w') as f:
     json.dump(sorted_d, f, indent=4, ensure_ascii=False)
 
 # d = defaultdict(list)
