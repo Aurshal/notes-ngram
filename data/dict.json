@@ -1,0 +1,368 @@
+{
+    "unigram": {
+        "state": [
+            206,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "nc": [
+            116,
+            "NC Dept of Health and Human services, division of State operated healthcare facilities -- Note added 9/14/15 20:51"
+        ],
+        "carolina": [
+            105,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "north": [
+            100,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "department": [
+            88,
+            "West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+        ],
+        "board": [
+            85,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "virginia": [
+            59,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "tourism": [
+            58,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "site": [
+            55,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "travel": [
+            53,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "commission": [
+            53,
+            "West Virginia Higher Education Policy Commission -- Note added 3/31/14 13:12"
+        ],
+        "office": [
+            46,
+            "West Virginia State Treasurer's Office -- Note added 3/31/14 13:35"
+        ],
+        "health": [
+            45,
+            "West Virginia Department of Health and Human Resources -- Note added 7/24/14 5:50"
+        ],
+        "the": [
+            44,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "public": [
+            42,
+            "West Virginia Consolidated Public Retirement Board -- Note added 3/31/14 13:33"
+        ],
+        "authority": [
+            39,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "division": [
+            38,
+            "West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+        ],
+        "louisiana": [
+            36,
+            "State Library of Louisiana -- Note added 7/26/13 16:18"
+        ],
+        "lottery": [
+            35,
+            "West Virginia Lottery -- Note added 6/12/13 14:29"
+        ],
+        "extension": [
+            31,
+            "University of Rhode Island Cooperative Extension -- Note added 6/7/13 18:31"
+        ],
+        "washington": [
+            30,
+            "Washington State School for the Blind -- Note added 7/31/13 16:31"
+        ],
+        "new": [
+            29,
+            "Staten Island Borough President, New York, NY -- Note added 11/20/13 18:23"
+        ],
+        "development": [
+            29,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "examiners": [
+            29,
+            "The State Board of Refrigeration Examiners -- Note added 9/15/15 17:47"
+        ],
+        "florida": [
+            29,
+            "Florida Governor's Commission on Volunteerism and Community Service -- Note added 11/9/15 19:00"
+        ],
+        "national": [
+            28,
+            "Montana Army National Guard -- Note added 3/2/15 6:52"
+        ],
+        "program": [
+            28,
+            "The South Carolina EPSCoR/IDeA Program, CCCR COBRE, and the USC School of Medicine Instrumentation Resource Facility -- Note added 8/28/15 15:28"
+        ],
+        "services": [
+            28,
+            "NC Dept of Health and Human services, division of State operated healthcare facilities -- Note added 9/14/15 20:51"
+        ],
+        "university": [
+            27,
+            "University of Rhode Island Cooperative Extension -- Note added 6/7/13 18:31"
+        ],
+        "service": [
+            25,
+            "North Carolina Commission on Volunteerism and Community Service -- Note added 11/10/15 20:34"
+        ]
+    },
+    "bigram": {
+        "north carolina": [
+            88,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "department of": [
+            82,
+            "West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+        ],
+        "board of": [
+            58,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "and tourism": [
+            54,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "travel and": [
+            53,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "of the": [
+            53,
+            "Waterparkin', a website of the Pat Harrison Waterway District (PHWD) a Mississippi State Agency that provides camping, cabins and recreational facilities in Mississippi. See historical snaphot at: http://web.archive.org/web/20101224004547/http://waterparkin.com/  -- Note added 1/13/14 20:28"
+        ],
+        "tourism site": [
+            42,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "site for": [
+            42,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "state of": [
+            40,
+            "State of Wisconsin Department of Financial Institutions -- Note added 8/11/14 5:34"
+        ],
+        "office of": [
+            33,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "division of": [
+            32,
+            "West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+        ],
+        "state board": [
+            24,
+            "Washington State Board for Community and Technical Colleges -- Note added 4/8/14 18:22"
+        ],
+        "for the": [
+            24,
+            "Washington State School for the Blind -- Note added 7/31/13 16:31"
+        ],
+        "the north": [
+            21,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "national guard": [
+            20,
+            "Montana Army National Guard -- Note added 3/2/15 6:52"
+        ],
+        "the state": [
+            18,
+            "Tennessee Vacation, the travel and tourism site for the state of Tennessee -- Note added 8/18/14 15:23"
+        ],
+        "of public": [
+            17,
+            "Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
+        ],
+        "university of": [
+            16,
+            "University of Rhode Island Cooperative Extension -- Note added 6/7/13 18:31"
+        ],
+        "carolina department": [
+            16,
+            "South Carolina Department of Revenue -- Note added 8/25/14 15:04"
+        ],
+        "south carolina": [
+            15,
+            "south carolina historical society -- Note added 8/28/15 15:32"
+        ],
+        "west virginia": [
+            15,
+            "West Virginia Water Development Authority -- Note added 7/24/14 5:57"
+        ],
+        "economic development": [
+            14,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "new york": [
+            13,
+            "Staten Island Borough President, New York, NY -- Note added 11/20/13 18:23"
+        ],
+        "by the": [
+            13,
+            "Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+        ],
+        "washington state": [
+            13,
+            "Washington State School for the Blind -- Note added 7/31/13 16:31"
+        ],
+        "is a": [
+            13,
+            "Viva Florida 500 is a statewide initiative led by the Florida Department of State, under the leadership of Governor Rick Scott, to highlight the 500 years of historic people, places and events in present-day Florida since the arrival of Juan Ponce de Leon to the land he named La Florida in 1513. See more at http://www.vivaflorida.org/About-Viva-Florida/ -- Note added 7/23/14 14:01"
+        ],
+        "of examiners": [
+            13,
+            "he North Carolina State Board of Examiners in Optometry -- Note added 9/15/15 16:58"
+        ],
+        "public health": [
+            12,
+            "Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
+        ],
+        "of state": [
+            12,
+            "NC Dept of Health and Human services, division of State operated healthcare facilities -- Note added 9/14/15 20:51"
+        ],
+        "of north": [
+            12,
+            "State of North Carolina's Vendor Registration -- Note added 1/14/14 13:04"
+        ]
+    },
+    "trigram": {
+        "travel and tourism": [
+            53,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "and tourism site": [
+            42,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "tourism site for": [
+            42,
+            "Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31"
+        ],
+        "state board of": [
+            22,
+            "Florida State Board of Administration, created by the Florida Constitution and is governed by a three-member Board of Trustees (Trustees), comprised of the Governor as Chair, the Chief Financial Officer and the Attorney General. -- Note added 8/25/14 16:59"
+        ],
+        "the north carolina": [
+            21,
+            "The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+        ],
+        "carolina department of": [
+            16,
+            "South Carolina Department of Revenue -- Note added 8/25/14 15:04"
+        ],
+        "north carolina department": [
+            14,
+            "School Planning Section, North Carolina Department of Public Instruction -- Note added 8/25/14 15:01"
+        ],
+        "office of the": [
+            14,
+            "Office of the Virgin Islands Inspector General -- Note added 8/18/14 14:13"
+        ],
+        "board of examiners": [
+            13,
+            "he North Carolina State Board of Examiners in Optometry -- Note added 9/15/15 16:58"
+        ],
+        "department of public": [
+            10,
+            "School Planning Section, North Carolina Department of Public Instruction -- Note added 8/25/14 15:01"
+        ],
+        "of public health": [
+            10,
+            "Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
+        ],
+        "of north carolina": [
+            10,
+            "Start Squad, kid's portal to the State Library of North Carolina -- Note added 8/25/14 12:12"
+        ],
+        "nc board of": [
+            10,
+            "NC Board of Pharmacy -- Note added 9/14/15 20:32"
+        ],
+        "and tourism sites": [
+            10,
+            "Travel and Tourism Sites for Mississippi -- Note added 6/6/13 19:11"
+        ],
+        "tourism sites for": [
+            10,
+            "Travel and Tourism Sites for Mississippi -- Note added 6/6/13 19:11"
+        ],
+        "new york state": [
+            9,
+            "New York State Police Recruitment Center -- Note added 1/3/14 13:14"
+        ],
+        "department of transportation": [
+            9,
+            "Virginia Department of Transportation -- Note added 7/11/14 20:18"
+        ],
+        "nc division of": [
+            9,
+            "Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
+        ],
+        "nc department of": [
+            9,
+            "Ready NC, NC Department of Public Safety -- Note added 1/14/14 14:35"
+        ],
+        "the state of": [
+            8,
+            "Tennessee Vacation, the travel and tourism site for the state of Tennessee -- Note added 8/18/14 15:23"
+        ],
+        "department of education": [
+            8,
+            "Virgin Islands Department of Education -- Note added 8/18/14 14:08"
+        ],
+        "north carolina board": [
+            8,
+            "The North Carolina Board of Physical Therapy Examiners -- Note added 9/15/15 17:04"
+        ],
+        "virginia department of": [
+            8,
+            "West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+        ],
+        "department of agriculture": [
+            8,
+            "West Virginia Department of Agriculture -- Note added 3/31/14 13:07"
+        ],
+        "agencies such as": [
+            8,
+            "http://www.state.nj.us/ and http://www.nj.gov both resolve to the same site. n*state.nj.us pattern to include New Jersey state agencies, such as those at: https://www.google.com/#q=site:state.nj.us  -- Note added 7/8/14 13:04"
+        ],
+        "louisiana board of": [
+            8,
+            "Louisiana Board of Drug and Device Distributors -- Note added 8/24/15 14:57"
+        ],
+        "louisiana state board": [
+            8,
+            "LOUISIANA STATE BOARD OF PRACTICAL NURSE EXAMINERS -- Note added 8/24/15 14:56"
+        ],
+        "pattern to include": [
+            8,
+            "http://www.state.nj.us/ and http://www.nj.gov both resolve to the same site. n*state.nj.us pattern to include New Jersey state agencies, such as those at: https://www.google.com/#q=site:state.nj.us  -- Note added 7/8/14 13:04"
+        ],
+        "of the state": [
+            7,
+            "New Mexico Office of the State Auditor -- Note added 7/16/14 5:38"
+        ],
+        "carolina board of": [
+            7,
+            "The North Carolina Board of Physical Therapy Examiners -- Note added 9/15/15 17:04"
+        ]
+    }
+}
