@@ -1,0 +1,214 @@
+{
+    "Alabama": {
+        "Postal Abbr": "AL",
+        "FIPS code": "01"
+    },
+    "Nebraska": {
+        "Postal Abbr": "NE",
+        "FIPS code": "31"
+    },
+    "Alaska": {
+        "Postal Abbr": "AK",
+        "FIPS code": "02"
+    },
+    "Nevada": {
+        "Postal Abbr": "NV",
+        "FIPS code": "32"
+    },
+    "Arizona": {
+        "Postal Abbr": "AZ",
+        "FIPS code": "04"
+    },
+    "New Hampshire": {
+        "Postal Abbr": "NH",
+        "FIPS code": "33"
+    },
+    "Arkansas": {
+        "Postal Abbr": "AR",
+        "FIPS code": "05"
+    },
+    "New Jersey": {
+        "Postal Abbr": "NJ",
+        "FIPS code": "34"
+    },
+    "California": {
+        "Postal Abbr": "CA",
+        "FIPS code": "06"
+    },
+    "New Mexico": {
+        "Postal Abbr": "NM",
+        "FIPS code": "35"
+    },
+    "Colorado": {
+        "Postal Abbr": "CO",
+        "FIPS code": "08"
+    },
+    "New York": {
+        "Postal Abbr": "NY",
+        "FIPS code": "36"
+    },
+    "Connecticut": {
+        "Postal Abbr": "CT",
+        "FIPS code": "09"
+    },
+    "North Carolina": {
+        "Postal Abbr": "NC",
+        "FIPS code": "37"
+    },
+    "Delaware": {
+        "Postal Abbr": "DE",
+        "FIPS code": "10"
+    },
+    "North Dakota": {
+        "Postal Abbr": "ND",
+        "FIPS code": "38"
+    },
+    "District Columbia": {
+        "Postal Abbr": "DC",
+        "FIPS code": "11"
+    },
+    "Ohio": {
+        "Postal Abbr": "OH",
+        "FIPS code": "39"
+    },
+    "Florida": {
+        "Postal Abbr": "FL",
+        "FIPS code": "12"
+    },
+    "Oklahoma": {
+        "Postal Abbr": "OK",
+        "FIPS code": "40"
+    },
+    "Georgia": {
+        "Postal Abbr": "GA",
+        "FIPS code": "13"
+    },
+    "Oregon": {
+        "Postal Abbr": "OR",
+        "FIPS code": "41"
+    },
+    "Hawaii": {
+        "Postal Abbr": "HI",
+        "FIPS code": "15"
+    },
+    "Pennsylvania": {
+        "Postal Abbr": "PA",
+        "FIPS code": "42"
+    },
+    "Idaho": {
+        "Postal Abbr": "ID",
+        "FIPS code": "16"
+    },
+    "Puerto Rico": {
+        "Postal Abbr": "PR",
+        "FIPS code": "72"
+    },
+    "Illinois": {
+        "Postal Abbr": "IL",
+        "FIPS code": "17"
+    },
+    "Rhode Island": {
+        "Postal Abbr": "RI",
+        "FIPS code": "44"
+    },
+    "Indiana": {
+        "Postal Abbr": "IN",
+        "FIPS code": "18"
+    },
+    "South Carolina": {
+        "Postal Abbr": "SC",
+        "FIPS code": "45"
+    },
+    "Iowa": {
+        "Postal Abbr": "IA",
+        "FIPS code": "19"
+    },
+    "South Dakota": {
+        "Postal Abbr": "SD",
+        "FIPS code": "46"
+    },
+    "Kansas": {
+        "Postal Abbr": "KS",
+        "FIPS code": "20"
+    },
+    "Tennessee": {
+        "Postal Abbr": "TN",
+        "FIPS code": "47"
+    },
+    "Kentucky": {
+        "Postal Abbr": "KY",
+        "FIPS code": "21"
+    },
+    "Texas": {
+        "Postal Abbr": "TX",
+        "FIPS code": "48"
+    },
+    "Louisiana": {
+        "Postal Abbr": "LA",
+        "FIPS code": "22"
+    },
+    "Utah": {
+        "Postal Abbr": "UT",
+        "FIPS code": "49"
+    },
+    "Maine": {
+        "Postal Abbr": "ME",
+        "FIPS code": "23"
+    },
+    "Vermont": {
+        "Postal Abbr": "VT",
+        "FIPS code": "50"
+    },
+    "Maryland": {
+        "Postal Abbr": "MD",
+        "FIPS code": "24"
+    },
+    "Virginia": {
+        "Postal Abbr": "VA",
+        "FIPS code": "51"
+    },
+    "Massachusetts": {
+        "Postal Abbr": "MA",
+        "FIPS code": "25"
+    },
+    "Virgin Islands": {
+        "Postal Abbr": "VI",
+        "FIPS code": "78"
+    },
+    "Michigan": {
+        "Postal Abbr": "MI",
+        "FIPS code": "26"
+    },
+    "Washington": {
+        "Postal Abbr": "WA",
+        "FIPS code": "53"
+    },
+    "Minnesota": {
+        "Postal Abbr": "MN",
+        "FIPS code": "27"
+    },
+    "West Virginia": {
+        "Postal Abbr": "WV",
+        "FIPS code": "54"
+    },
+    "Mississippi": {
+        "Postal Abbr": "MS",
+        "FIPS code": "28"
+    },
+    "Wisconsin": {
+        "Postal Abbr": "WI",
+        "FIPS code": "55"
+    },
+    "Missouri": {
+        "Postal Abbr": "MO",
+        "FIPS code": "29"
+    },
+    "Wyoming": {
+        "Postal Abbr": "WY",
+        "FIPS code": "56"
+    },
+    "Montana": {
+        "Postal Abbr": "MT",
+        "FIPS code": "30"
+    }
+}

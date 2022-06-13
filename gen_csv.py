@@ -8,8 +8,9 @@ with open("data/dict.json", "r") as f:
     val = {}
     for v in merged_d.values():
         val.update(v)
-print(len(val))
-print(val)
+with open("data/state.json", "r") as f:
+    state_code = json.load(f)
+
 def gen_notes_tags_csv():
     note_tags = defaultdict(set)
     with open("raw/3_govt_urls_state_only.csv", "r") as f:
@@ -25,30 +26,20 @@ def gen_notes_tags_csv():
 
     with open("data/note_tags.csv", "w", newline='') as f:
         writer = csv.writer(f, delimiter = ',',quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['notes', 'tags'])
+        writer.writerow(['states','tags', 'notes'])
         for key, value in note_tags.items():
+            s = set()
+            for k,k2 in zip(key.split(),generate_N_grams(key.lower(),2)):
+                k = k.title()
+                k2 = k2.title()
+                if k in state_code:
+                    s.add(k)
+                if k2 in state_code:
+                    s.add(k2)
             value = ','.join(value)
-            writer.writerow([value, key])
+            states = ','.join(s)
+            writer.writerow([states,value, key])
 
 gen_notes_tags_csv()
  
-
-# def get_notes(text):
-#     global merged_d
-#     text = text.lower()
-#     bigram = generate_N_grams(text, 2)
-#     trigram = generate_N_grams(text, 3)
-#     merged = [*bigram, *trigram]
-#     notes = []
-#     for i in merged:
-#         try:
-#             note = merged_d[i]
-#             if notes and note in notes:
-#                 continue
-#             else:
-#                 notes.append(note)
-#         except:
-#             continue
-#     return notes
-
 
