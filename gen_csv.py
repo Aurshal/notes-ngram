@@ -32,12 +32,16 @@ def gen_notes_tags_csv():
             for k,k2 in zip(key.split(),generate_N_grams(key.lower(),2)):
                 k = k.title()
                 k2 = k2.title()
-                if k in state_code:
-                    s.add(k)
                 if k2 in state_code:
                     s.add(k2)
+                if k in state_code:
+                    s.add(k)
+            list_s = list(s)
+            if len(list_s) >= 2:
+                if list_s[1] in list_s[0]:
+                    list_s.pop()
             value = ','.join(value)
-            states = ','.join(s)
+            states = ','.join(list_s)
             writer.writerow([states,value, key])
 
 gen_notes_tags_csv()
