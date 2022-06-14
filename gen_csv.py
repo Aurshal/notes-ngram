@@ -11,6 +11,7 @@ with open("data/dict.json", "r") as f:
 with open("data/state.json", "r") as f:
     state_code = json.load(f)
 
+
 def gen_notes_tags_csv():
     note_tags = defaultdict(set)
     with open("raw/3_govt_urls_state_only.csv", "r") as f:
@@ -25,11 +26,18 @@ def gen_notes_tags_csv():
                         note_tags[original_note].add(gram)
 
     with open("data/note_tags.csv", "w", newline='') as f:
-        writer = csv.writer(f, delimiter = ',',quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['states','tags', 'notes'])
+        writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+        writer.writerow(['states', 'tags', 'notes', "date", "time"])
         for key, value in note_tags.items():
             s = set()
-            for k,k2 in zip(key.split(),generate_N_grams(key.lower(),2)):
+            split_key = key.split('--')
+            note = split_key[0]
+            split_note = note.split()
+            date_time = split_key[1]
+            time = date_time.split()[-1]
+            date = date_time.split()[-2]
+
+            for k, k2 in zip(split_note, generate_N_grams(key.lower(), 2)):
                 k = k.title()
                 k2 = k2.title()
                 if k2 in state_code:
@@ -40,10 +48,13 @@ def gen_notes_tags_csv():
             if len(list_s) >= 2:
                 if list_s[1] in list_s[0]:
                     list_s.pop()
-            value = ','.join(value)
+            value = list(value)
+            for v in value:
+                if v.title() in list(list_s):
+                    value.remove(v)
+            tags = ','.join(value)
             states = ','.join(list_s)
-            writer.writerow([states,value, key])
+            writer.writerow([states, tags, note, date, time])
+
 
 gen_notes_tags_csv()
- 
-
